@@ -1,6 +1,6 @@
 const path = require('path');
 const HtmlWebPackPlugin = require('html-webpack-plugin');
-const FaviconWebpackPlugin = require('favicons-webpack-plugin');
+const WebappWebpackPlugin = require('webapp-webpack-plugin');
 
 module.exports = {
 	entry: './src/index.js',
@@ -38,6 +38,6 @@ module.exports = {
 			template: './public/index.html',
 			file: './index.html'
 		}),
-		new FaviconWebpackPlugin('./public/favicon-32x32.png'),
+		new WebappWebpackPlugin('./public/favicon-32x32.png')
 	]
 };

@@ -1,0 +1,83 @@
+{
+	"address": "CDMX, México.",
+	"avatar": "httpshttps://secure.gravatar.com/avatar/ada7ecdfca732cc43a6999f9b8f8f62f",
+	"bio": "Product Manager turned coder.",
+	"certificate": [
+		{
+			"date": "June 2018",
+			"description": "As a CSPO, I learned how create the product vision, order the Product Backlog, and make sure the best possible job is done to delight the customer.",
+			"institution": "Scrum Alliance",
+			"name": "Certified Scrum Product Owner®"
+		}
+	],
+	"education": [
+		{
+			"degree": "(B.B.A.), Business Administration and Management, General",
+			"description": "",
+			"endDate": "May 2013",
+			"institution": "Loyola University of Chicago, Quinlan School of Business: Bachelor of Business Administration",
+			"startDate": "Aug 2011"
+		},
+		{
+			"degree": "Business Administration, Psychology",
+			"description": "",
+			"endDate": "May 2011",
+			"institution": "Fort Lewis College",
+			"startDate": "Aug 2009"
+		}
+	],
+	"experience": [
+		{
+			"company": "UP Global",
+			"endDate": "Jun 2015",
+			"jobDescription": "",
+			"jobTitle": "Operations Coordinator Latam",
+			"startDate": "Oct 2014"
+		},
+		{
+			"company": "Startup Institute",
+			"endDate": "Apr 2014",
+			"jobDescription": "- 8-week career-accelerator in which I worked for 60+ hours a week on my Technical Marketing skills.",
+			"jobTitle": "Technical Marketing Student",
+			"startDate": "Mar 2014"
+		}
+	],
+	"name": "Luis Francisco Rodriguez Rodriguez",
+	"profession": "Product Manager & FrontEnd Developer",
+	"skills": [
+		{
+			"name": "HTML5",
+			"percentage": "75%"
+		},
+		{
+			"name": "CSS",
+			"percentage": "25%"
+		},
+		{
+			"name": "JavaScript",
+			"percentage": "55%"
+		},
+		{
+			"name": "React",
+			"percentage": "90%"
+		}
+	],
+	"social": [
+		{
+			"name": "facebook",
+			"url": "https://facebook.com/"
+		},
+		{
+			"name": "twitter",
+			"url": "https://twitter.com/luis_rodriguez"
+		},
+		{
+			"name": "github",
+			"url": "https://github.com/lfcrodriguez"
+		},
+		{
+			"name": "linkedin",
+			"url": "https://www.linkedin.com/lfrodriguez"
+		}
+	]
+}
