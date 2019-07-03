@@ -9,17 +9,30 @@
 				"description": "As a CSPO, I learned how create the product vision, order the Product Backlog, and make sure the best possible job is done to delight the customer.",
 				"institution": "Scrum Alliance",
 				"name": "Certified Scrum Product Owner®"
+			},
+			"1": {
+				"date": "June 2019",
+				"description": "Online React course",
+				"institution": "Platzi",
+				"name": "React"
 			}
 		},
 		"education": {
 			"0": {
+				"degree": "",
+				"description": "Technical Marketing Track. - 8-week career-accelerator in which I worked for 60+ hours a week on my Technical Marketing skills.",
+				"endDate": "Abril 2014",
+				"institution": "Startup Institue",
+				"startDate": "Marzo 2014"
+			},
+			"1": {
 				"degree": "(B.B.A.), Business Administration and Management, General",
-				"description": "",
+				"description": "3.56/4.0 GPA (Cum Laude)",
 				"endDate": "May 2013",
 				"institution": "Loyola University of Chicago, Quinlan School of Business: Bachelor of Business Administration",
 				"startDate": "Aug 2011"
 			},
-			"1": {
+			"2": {
 				"degree": "Business Administration, Psychology",
 				"description": "",
 				"endDate": "May 2011",
@@ -29,22 +42,33 @@
 		},
 		"experience": {
 			"0": {
-				"company": "UP Global",
-				"endDate": "Jun 2015",
-				"jobDescription": "",
-				"jobTitle": "Operations Coordinator Latam",
-				"startDate": "Oct 2014"
+				"company": "NA",
+				"endDate": "Marzo 2019",
+				"jobDescription": {
+					"0": "Bulletpoint 1",
+					"1": "Bulletpoint 2"
+				},
+				"jobTitle": "This is the job title",
+				"startDate": "Junio 2018"
 			},
 			"1": {
-				"company": "Startup Institute",
-				"endDate": "Apr 2014",
-				"jobDescription": "- 8-week career-accelerator in which I worked for 60+ hours a week on my Technical Marketing skills.",
+				"company": "Techstars",
+				"jobDescription": "Manage data for the Techstars Community Business Unit, including data for 900+ events, 4k+ Community Leaders, and 8 different systems globally, and 22 colleagues. Managed and created 8+ dashboards  and 60+ data visualizations for 3 different teams (Ops, Sales and Regions team ) in DOMO, to track progress, team KPIs, and make data-driven decision making. Co-led GDRP Compliance for Community Team.",
 				"jobTitle": "Technical Marketing Student",
-				"startDate": "Mar 2014"
+				"startDate": "Enero 2018",
+				"endDate": "Junio 2018"
 			}
 		},
 		"name": "Luis Francisco Rodriguez Rodriguez",
 		"profession": "Product Manager & FrontEnd Developer",
+		"music": {
+			"0": {
+				"name": "Guitar Player",
+				"length": "Guitar Player for 15 years",
+				"exp": "Lead guitarist for band 'Board of Governors'",
+				"exp2": "Singer/Songwriter of band 'We Are the Product', EP Debut Dec 2019"
+			}
+		},
 		"skills": {
 			"0": {
 				"name": "HTML5",

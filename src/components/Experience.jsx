@@ -1,10 +1,10 @@
-import React from "react";
-import H2Styled from "../styled/H2Styled";
+import React from 'react';
+import H2Styled from '../styled/H2Styled';
+//import JobDescription from './JobDescription';
 
-
-const Experience = props => (
+const Experience = (props) => (
 	<div className='Experience'>
-		<H2Styled name="Experience" />
+		<H2Styled name='Experience' />
 		<div className='Experience-container'>
 			{props.data.map((experience, index) => (
 				<div className='Experience-item' key={`Experience-${index}`}>
@@ -14,7 +14,8 @@ const Experience = props => (
 					<p>
 						{experience.startDate}-{experience.endDate}
 					</p>
-					<p>{experience.jobDescription}</p>
+
+					<li>{experience.jobDescription}</li>
 				</div>
 			))}
 		</div>

@@ -1,14 +1,10 @@
-import React from "react";
-import Social from "./Social";
-import styled from "styled-components";
+import React from 'react';
+import Social from './Social';
+import styled from 'styled-components';
 
-const AboutStyle = styled.div`
-	text-align: center;
-`;
+const AboutStyle = styled.div`text-align: center;`;
 
-const AboutAvatar = styled.div`
-	padding: 2em 0 0 0;
-`;
+const AboutAvatar = styled.div`padding: 2em 0 0 0;`;
 
 const AboutImg = styled.img`
 	border-radius: 100%;
@@ -20,23 +16,21 @@ const AboutImg = styled.img`
 	box-shadow: 0 0 10px rgba(0, 0, 0, 0, 0.6);
 `;
 
-const AboutName = styled.div`
-	text-align: center;
-`;
+const AboutName = styled.div`text-align: center;`;
 
 const AboutH2 = styled.div`
 	font-family: "Roboto", sans-serif;
 	font-weight: 400;
 	letter-spacing: 1.2px;
 	margin: 0.5em 0 0 0;
-	color: #c2185b;
+	color: #684a83;
 `;
 
 const AboutProfessions = styled.p`
 	margin: 0.2em 0 1em 0;
 	letter-spacing: 1.6px;
 	font-weight: 300;
-	color: #c2185b;
+	color: #684a83;
 `;
 
 const AboutBio = styled.p`

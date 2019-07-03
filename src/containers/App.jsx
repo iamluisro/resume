@@ -8,11 +8,12 @@ import Experience from '../components/Experience';
 import Education from '../components/Education';
 import Certificates from '../components/Certificates';
 import Skills from '../components/Skills';
+import Music from '../components/Music';
 import useGetData from '../hooks/useGetData';
 
 const GlobalStyle = createGlobalStyle`
 	body {
-		font-family: 'Lato', sans-serif;
+		font-family: 'Barlow', sans-serif;
 		margin: 0;
 		padding: 0;
 		background: #f5f5f5;
@@ -42,6 +43,7 @@ const App = () => {
 				<Education data={data.education} />
 				<Certificates data={data.certificate} />
 				<Skills data={data.skills} />
+				<Music data={data.music} />
 			</Info>
 		</Main>
 	);
