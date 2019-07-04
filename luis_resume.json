@@ -21,9 +21,9 @@
 			"0": {
 				"degree": "",
 				"description": "Technical Marketing Track. - 8-week career-accelerator in which I worked for 60+ hours a week on my Technical Marketing skills.",
-				"endDate": "Abril 2014",
+				"endDate": "Apr 2014",
 				"institution": "Startup Institue",
-				"startDate": "Marzo 2014"
+				"startDate": "Mar 2014"
 			},
 			"1": {
 				"degree": "(B.B.A.), Business Administration and Management, General",
@@ -42,21 +42,67 @@
 		},
 		"experience": {
 			"0": {
-				"company": "NA",
-				"endDate": "Marzo 2019",
-				"jobDescription": {
-					"0": "Bulletpoint 1",
-					"1": "Bulletpoint 2"
-				},
-				"jobTitle": "This is the job title",
-				"startDate": "Junio 2018"
+				"company": "Techstars",
+				"endDate": "Mar 2019",
+				"jobDescription": [
+					{
+						"0": "Created and managed the Community team's Product Vision through team presentations and roadmaps."
+					},
+					{
+						"0": "Explored, observed and recommended solutions to leadership team."
+					}
+				],
+				"jobTitle": "Product Manager, Community",
+				"startDate": "Jun 2018"
 			},
 			"1": {
 				"company": "Techstars",
-				"jobDescription": "Manage data for the Techstars Community Business Unit, including data for 900+ events, 4k+ Community Leaders, and 8 different systems globally, and 22 colleagues. Managed and created 8+ dashboards  and 60+ data visualizations for 3 different teams (Ops, Sales and Regions team ) in DOMO, to track progress, team KPIs, and make data-driven decision making. Co-led GDRP Compliance for Community Team.",
-				"jobTitle": "Technical Marketing Student",
-				"startDate": "Enero 2018",
-				"endDate": "Junio 2018"
+				"jobDescription": [
+					{
+						"0": "Manage data for the Techstars Community Business Unit, including data for 900+ events, 4k+ Community Leaders, and 8 different systems globally, and 22 colleagues."
+					},
+					{
+						"0": "Managed and created 8+ dashboards and 60+ data visualizations for 3 different teams (Ops, Sales and Regions team ) in DOMO, to track progress, team KPIs, and make data-driven decision making."
+					},
+					{ "0": "Co-led GDRP Compliance for Community Team." }
+				],
+				"jobTitle": "Data Analyst",
+				"startDate": "Jan 2018",
+				"endDate": "Jun 2018"
+			},
+			"2": {
+				"company": "Techstars",
+				"jobDescription": [
+					{
+						"0": "Built sustainable and scalable processes at a global scale for Techstars Community team."
+					},
+					{
+						"0": "Supprted +1k events per year and +5k Community Leaders"
+					},
+					{
+						"0": "Managed global NPS survey process for 1k+ Techstars Startup Weekend events."
+					},
+					{
+						"0": "Managed 200+ events during a global initiative called 'Global Startup Weekend' through one-on-one customer support and coordination of 12 mentors throughout 4 different time zones."
+					}
+				],
+				"jobTitle": "Operations Coordinator",
+				"startDate": "Jun 2015",
+				"endDate": "Jan 2018"
+			},
+			"3": {
+				"company": "UP Global",
+				"jobDescription": [
+					{
+						"0": "First Operations Coordinator for UP Global."
+					},
+					{
+						"0": "Supprted 120+ events in Latin America and 300+ Community Leaders in the region."
+					}
+				],
+				"jobTitle": "Operations Coordinator",
+				"startDate": "Oct 2014",
+				"endDate": "Jun 2015"
 			}
 		},
 		"name": "Luis Francisco Rodriguez Rodriguez",

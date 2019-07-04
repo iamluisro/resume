@@ -1,6 +1,12 @@
 import React from 'react';
 import H2Styled from '../styled/H2Styled';
+
 //import JobDescription from './JobDescription';
+
+const ConsoleLog = ({ children }) => {
+	console.log(children);
+	return false;
+};
 
 const Experience = (props) => (
 	<div className='Experience'>
@@ -15,7 +21,15 @@ const Experience = (props) => (
 						{experience.startDate}-{experience.endDate}
 					</p>
 
-					<li>{experience.jobDescription}</li>
+					<ul>
+						{Object.keys(experience.jobDescription).map((item, index) => (
+							<div key={index}>
+								<li>{experience.jobDescription[item]}</li>
+							</div>
+						))}
+					</ul>
+
+					<ConsoleLog>{props.data[0]}</ConsoleLog>
 				</div>
 			))}
 		</div>
